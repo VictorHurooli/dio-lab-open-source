@@ -48,7 +48,9 @@
 
 ##### Exemplo commit
 
-`feat: adicionado novo arquivo`
+Criado por Elidiana Andrade, Professora da DIO.
+Pós-Graduada em Desenv. de Software
+@CanalFullStack - YouTube
 
 
 ## Referências
